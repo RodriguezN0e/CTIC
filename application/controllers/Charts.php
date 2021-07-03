@@ -7,4 +7,5 @@ class Charts extends CI_Controller {
 	{
 		$this->load->view('charts_page');
 	}
+	//testing of changes after close cmd
 }
