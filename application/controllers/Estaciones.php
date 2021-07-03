@@ -10,5 +10,7 @@ class Estaciones extends CI_Controller {
 	    	$this->load->view('estaciones_page');
 	    }
 	}
+
+	
 	
 }

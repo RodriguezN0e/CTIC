@@ -11,4 +11,9 @@ class Mediciones extends CI_Controller {
 	    }
 	}
 
+
+
+
+
+
 }
